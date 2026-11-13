@@ -1,2 +1,1 @@
-# verilog-projects
-Verilog design projects with testbenches and simulations
+Verilog-4bit-UpDown-Counter
